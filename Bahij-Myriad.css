@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Bahij-Myriad';
+	src:  url('https://cdn.rawgit.com/albouhali/MyriadArabic/d21746fe/Bahij-Myriad.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+https://cdn.rawgit.com/albouhali/MyriadArabic/aee6b7a3/MyriadArabic.css
+
+
+.font-Bahij-Myriad {
+    font-family: 'Bahij-Myriad', Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
