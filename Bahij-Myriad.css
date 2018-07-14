@@ -1,10 +1,9 @@
 @font-face {
   font-family: 'Bahij-Myriad';
-	src:  url('https://cdn.rawgit.com/albouhali/MyriadArabic/d21746fe/Bahij-Myriad.otf');
+	src:  url('https://cdn.rawgit.com/albouhali/-font-face/3cbef4d6/Bahij%20Myriad%20Arabic-Regular.ttf');
   font-weight: normal;
   font-style: normal;
 }
-https://cdn.rawgit.com/albouhali/MyriadArabic/aee6b7a3/MyriadArabic.css
 
 
 .font-Bahij-Myriad {
@@ -12,4 +11,3 @@ https://cdn.rawgit.com/albouhali/MyriadArabic/aee6b7a3/MyriadArabic.css
     font-weight: normal;
     font-style: normal;
 }
-
