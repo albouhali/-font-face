@@ -1,44 +1,8 @@
-@font-face {
-  font-family: 'font-Bold';
-  src: url('DubaiW23-Bold.eot?#iefix') format('embedded-opentype'), url('DubaiW23-Bold.woff') format('woff'), url('DubaiW23-Bold.ttf') format('truetype'), url('DubaiW23-Bold.woff2#Dubai-Bold') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'font-Medium';
-  src: url('DubaiW23-Medium.eot?#iefix') format('embedded-opentype'), url('DubaiW23-Medium.woff') format('woff'), url('DubaiW23-Medium.ttf') format('truetype'), url('DubaiW23-Medium.woff2#Dubai-Medium') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'font-Regular';
-  src: url('DubaiW23-Regular.eot?#iefix') format('embedded-opentype'), url('DubaiW23-Regular.woff') format('woff'), url('DubaiW23-Regular.ttf') format('truetype'), url('DubaiW23-Regular.woff2#Dubai-Regular') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'font-Light';
-  src: url('DubaiW23-Light.eot?#iefix') format('embedded-opentype'), url('DubaiW23-Light.woff') format('woff'), url('DubaiW23-Light.ttf') format('truetype'), url('DubaiW23-Light.woff2#Dubai-Light') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-.font-dubai-bold {
-  font-family: 'Dubai-Bold', Helvetica, sans-serif;
-  font-weight: normal;
-  font-style: normal;
-}
-.font-dubai-medium {
-  font-family: 'Dubai-Medium', Helvetica, sans-serif;
-  font-weight: normal;
-  font-style: normal;
-}
-.font-dubai-regular {
-  font-family: 'Dubai-Regular', Helvetica, sans-serif;
-  font-weight: normal;
-  font-style: normal;
-}
-.font-dubai-light {
-  font-family: 'Dubai-Light', Helvetica, sans-serif;
-  font-weight: normal;
-  font-style: normal;
+font-face
+{
+	font-family:'Graphik Arabic Web Regular';
+	font-style:normal;
+	font-weight:400;
+	src:url('JWsKwoCvuDT.woff2') format("woff2")
+  ,url('0AYgBPb3MzO.woff') format("woff")
 }
