@@ -1,8 +1,7 @@
-@font-face
+font-face
 {
 	font-family:'Graphik Arabic Web Regular';
 	font-style:normal;
 	font-weight:400;
-	src:url(https://static.xx.fbcdn.net/rsrc.php/yh/r/JWsKwoCvuDT.woff2)
-	format("woff2"),url(https://static.xx.fbcdn.net/rsrc.php/yq/r/0AYgBPb3MzO.woff) format("woff")
+	src:url(https://cdn.rawgit.com/albouhali/font/4c835564/0AYgBPb3MzO.woff) format("woff") ,url(https://github.com/albouhali/font/blob/master/JWsKwoCvuDT.woff2https://github.com/albouhali/font/blob/master/JWsKwoCvuDT.woff2) format("woff2")
 }
