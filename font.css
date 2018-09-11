@@ -1,7 +1,18 @@
-font-face
-{
-	font-family:'Graphik Arabic Web Regular';
-	font-style:normal;
-	font-weight:400;
-	src:url(https://cdn.rawgit.com/albouhali/font/4c835564/0AYgBPb3MzO.woff) format("woff") ,url(https://github.com/albouhali/font/blob/master/JWsKwoCvuDT.woff2https://github.com/albouhali/font/blob/master/JWsKwoCvuDT.woff2) format("woff2")
+@font-face {
+font-family:'Graphik Arabic Web Bold';
+font-style:normal;
+font-weight:700;
+src:url(https://cdn.rawgit.com/albouhali/font/c0340f91/sMsSh8desF7.woff2) format("woff2"),url(https://cdn.rawgit.com/albouhali/font/c0340f91/Ui4vsZf3z8f.woff) format("woff")
+}
+@font-face {
+font-family:'Graphik Arabic Web Semibold';
+font-style:normal;
+font-weight:600; 
+src:url(https://cdn.rawgit.com/albouhali/font/c0340f91/d2-DkeeaN4A.woff2) format("woff2"),url(https://cdn.rawgit.com/albouhali/font/c0340f91/eWJ9Zh5bRJ2.woff) format("woff")
+}
+@font-face {
+font-family:'Graphik Arabic Web Regular';
+font-style:normal;
+font-weight:400;
+src:url(https://cdn.rawgit.com/albouhali/font/c0340f91/JWsKwoCvuDT.woff2) format("woff2"),url(https://cdn.rawgit.com/albouhali/font/c0340f91/0AYgBPb3MzO.woff) format("woff")
 }
